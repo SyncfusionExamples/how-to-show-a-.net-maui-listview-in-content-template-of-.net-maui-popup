@@ -6,10 +6,9 @@ public partial class MainPage : ContentPage
 	{
 		InitializeComponent();
 	}
-
-    private void OpenButton_Clicked(object sender, EventArgs e)
-    {
+	private void OpenButton_Clicked(object sender, EventArgs e)
+	{
 		sfPopup.Show();
-    }
+	}
 }
 
