@@ -1,6 +1,5 @@
-# how-to-show-a-.net-maui-listview-in-content-template-of-.net-maui-popup
-
-This examples shows how to show a .NET Maui ListView in content template of .NET Maui SfPopup
+# How to show a .NET MAUI ListView (SfListView) in content template of .NET MAUI Popup (SfPopup)?
+This examples shows how to show a .NET MAUI ListView (SfListView) in content template of .NET MAUI Popup (SfPopup).
 
 ```
    <sfPopup:SfPopup x:Name="sfPopup" 
